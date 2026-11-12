@@ -60,16 +60,16 @@ header p {
     padding: 25px;
     border-radius: 12px;
     flex: 1;
-    box-shadow: 0 2px 8px #00000010;
+    box-shadow: 0 2px 8px olivedrab;
 }
 
 .card h2 {
-    color: #2563eb;
+    color: gold;
     margin: 15px 0;
 }
 
 .activity {
-    background: white;
+    background: hotpink;
     padding: 25px;
     border-radius: 12px;
 }
